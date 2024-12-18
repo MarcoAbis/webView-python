@@ -46,7 +46,7 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
    
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/webview-python.git
+   git clone https://github.com/MarcoAbis/webview-python.git
    cd webview-python
    
 2. **Install the dependencies**
