@@ -28,6 +28,21 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 
 ## 🚀 Getting Started
 
+### 🐍 Setting Up the Python Environment  
+
+1. **Ensure Python is Installed**  
+   - Download and install Python (3.9+ recommended) from [python.org](https://www.python.org).  
+   - Add Python to your system's PATH during installation.  
+
+2. **Create a Virtual Environment**  
+   ```bash
+   python -m venv env
+   
+3. **Activate the Virtual Environment**
+   ```bash
+   env\Scripts\activate
+
+   
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/webview-python.git
