@@ -14,7 +14,6 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 
 - **JavaScript Polyfills**  
   Automatically injects polyfills to ensure compatibility with modern websites. ✨<br>
-  ⚠️ Most Web Admin Panels don't allow to connect because of the old javasript versions of Chromium.⚠️
 
 - **Advanced Request Monitoring**  
   Intercept and monitor HTTP/HTTPS requests directly from the application. 📡  
@@ -25,6 +24,7 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 - **Standalone Executable**  
   Convenient `.exe` version for quick setup and deployment. 🖥️  
 
+⚠️ Most Web Admin Panels don't allow to connect because of the old javasript versions of Chromium.⚠️
 ---
 
 ## 🚀 Getting Started
