@@ -1,41 +1,34 @@
-# webView-python
+# 🌐 PyQt5 WebEngine Viewer
 
-🌐 PyQt5 WebEngine Viewer
+A lightweight, customizable web viewer built with PyQt5's QWebEngine module. 🚀  
+This application is designed to provide a secure and flexible browsing solution with features like SSL certificate integration, advanced HTTP/HTTPS request interception, and JavaScript polyfills for modern web compatibility.  
 
-A powerful, customizable web viewer built with PyQt5's QWebEngine module! This project is perfect for developers who want a lightweight, flexible browser solution with advanced features like SSL certificate loading, request interception, and JavaScript polyfills. 🚀
-🛠️ Features
+Includes a standalone `.exe` version for easy deployment! 🖥️  
 
-  Custom SSL Certificate Handling
-  Load and integrate custom SSL certificates effortlessly for secure web browsing. 🔒
+---
 
-  JavaScript Polyfills
-  Automatically injects polyfills for better compatibility with modern websites. ✨
- 
-  Advanced Request Interception
-  Monitor and manipulate HTTP/HTTPS requests directly in the application. 📡
+## 🔑 Key Features
 
-  Popup Handling
-  Seamlessly manages popups or new window requests for a better user experience. 🔗
+- **Custom SSL Certificate Support**  
+  Securely load and integrate custom SSL certificates for enhanced security. 🔒  
 
-  Standalone Executable
-  A convenient .exe version is available for all-in-one deployment. 🖥️
+- **JavaScript Polyfills**  
+  Automatically injects polyfills to ensure compatibility with modern websites. ✨  
 
-🚀 Getting Started
+- **Advanced Request Monitoring**  
+  Intercept and monitor HTTP/HTTPS requests directly from the application. 📡  
 
-   Clone the repository:
+- **Popup Handling**  
+  Seamlessly manage popups and new window requests. 🔗  
 
-    git clone https://github.com/yourusername/pyqt5-webengine-viewer.git  
-    cd pyqt5-webengine-viewer  
+- **Standalone Executable**  
+  Convenient `.exe` version for quick setup and deployment. 🖥️  
 
-   Install the dependencies:
+---
 
-    pip install PyQt5 PyQtWebEngine  
+## 🚀 Getting Started
 
-   Run the application:
-
-    python main.py  
-
-   Or use the .exe version (located in the dist folder).
-
-🖼️ Screenshots
-
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/yourusername/pyqt5-webengine-viewer.git
+   cd pyqt5-webengine-viewer
