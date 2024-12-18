@@ -34,7 +34,6 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 
 1. **Ensure Python is Installed**  
    - Download and install Python (3.9+ recommended) from [python.org](https://www.python.org).  
-   - Add Python to your system's PATH during installation.  
 
 2. **Create a Virtual Environment**  
    ```bash
