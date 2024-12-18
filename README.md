@@ -38,19 +38,21 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 
 2. **Create a Virtual Environment**  
    ```bash
-   python3 -m venv env
+   python3 -m venv venv
    
 3. **Activate the Virtual Environment**
    ```bash
-   source env/bin/activate
+   source venv/bin/activate
    
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/yourusername/webview-python.git
    cd webview-python
+   
 2. **Install the dependencies**
    ```bash
    pip install PyQt5 PyQtWebEngine
+   
 3. **Run the application**
    ```bash
    python3 main.py
