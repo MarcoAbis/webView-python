@@ -35,12 +35,9 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 1. **Ensure Python is Installed**  
    - Download and install Python (3.9+ recommended) from [python.org](https://www.python.org).  
 
-   - **Create a Virtual Environment**  
+2. **Create a Virtual Environment**  
    ```bash
    python3 -m venv venv
-
-  - **Activate the Virtual Environment**
-   ```bash
    source venv/bin/activate
 
 1. **Clone the Repository**  
