@@ -3,8 +3,6 @@
 A lightweight, customizable web viewer built with PyQt5's QWebEngine module. 🚀  
 This application is designed to provide a secure and flexible browsing solution with features like SSL certificate integration, advanced HTTP/HTTPS request interception, and JavaScript polyfills for modern web compatibility.  
 
-Includes a standalone `.exe` version for easy deployment! 🖥️  
-
 ---
 
 ## 🔑 Key Features
@@ -52,5 +50,3 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 3. **Run the application**
    ```bash
    python3 main.py
-
-Or use the .exe version (located in the dist folder).
