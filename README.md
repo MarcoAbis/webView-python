@@ -13,7 +13,7 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
   Securely load and integrate custom SSL certificates for enhanced security. 🔒  
 
 - **JavaScript Polyfills**  
-  Automatically injects polyfills to ensure compatibility with modern websites. ✨
+  Automatically injects polyfills to ensure compatibility with modern websites. ✨<br>
   Most Web Admin Panels don't allow to connect because of the old javasript versions of Chromium.⚠️
 
 - **Advanced Request Monitoring**  
