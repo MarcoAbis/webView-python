@@ -38,8 +38,8 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 2. **Create a Virtual Environment**  
    ```bash
    python3 -m venv venv
-   
-3. **Activate the Virtual Environment**
+
+  - **Activate the Virtual Environment**
    ```bash
    source venv/bin/activate
    
