@@ -30,5 +30,13 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/pyqt5-webengine-viewer.git
+   git clone https://github.com/yourusername/webview-python.git
    cd pyqt5-webengine-viewer
+2. **Install the dependencies**
+   ```bash
+   pip install PyQt5 PyQtWebEngine
+3. **Run the application**
+   ```bash
+   python main.py
+
+Or use the .exe version (located in the dist folder).
