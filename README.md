@@ -25,6 +25,7 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
   Convenient `.exe` version for quick setup and deployment. 🖥️  
 
 ⚠️ Most Web Admin Panels don't allow to connect because of the old javasript versions of Chromium.⚠️
+
 ---
 
 ## 🚀 Getting Started
