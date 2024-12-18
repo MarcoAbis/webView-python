@@ -42,7 +42,7 @@ Includes a standalone `.exe` version for easy deployment! 🖥️
    
 3. **Activate the Virtual Environment**
    ```bash
-   env\bin\activate
+   source env/bin/activate
    
 1. **Clone the Repository**  
    ```bash
