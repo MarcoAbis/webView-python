@@ -94,7 +94,7 @@ class BrowserWindow(QMainWindow):
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    url = "https://<url>"  # Replace with your desired URL
+    url = "https://<url>"  # Replace with your URL
     window = BrowserWindow(url)
     window.show()
     sys.exit(app.exec_())
