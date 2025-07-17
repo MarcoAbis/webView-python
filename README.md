@@ -1,4 +1,4 @@
-# 🌐 PyQt5 WebEngine Viewer
+# PyQt5 WebEngine Viewer
 
 A lightweight, customizable web viewer built with PyQt5's QWebEngine module. 🚀  
 This application is designed to provide a secure and flexible browsing solution with features like SSL certificate integration, advanced HTTP/HTTPS request interception, and JavaScript polyfills for modern web compatibility.  
