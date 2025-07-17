@@ -1,6 +1,6 @@
 # PyQt5 WebEngine Viewer
 
-A lightweight, customizable web viewer built with PyQt5's QWebEngine module. 🚀  
+A lightweight, customizable web viewer built with PyQt5's QWebEngine module. 
 This application is designed to provide a secure and flexible browsing solution with features like SSL certificate integration, advanced HTTP/HTTPS request interception, and JavaScript polyfills for modern web compatibility.  
 
 ---
@@ -8,19 +8,19 @@ This application is designed to provide a secure and flexible browsing solution 
 ## 🔑 Key Features
 
 - **Custom SSL Certificate Support**  
-  Securely load and integrate custom SSL certificates for enhanced security. 🔒  
+  Securely load and integrate custom SSL certificates for enhanced security.   
 
 - **JavaScript Polyfills**  
-  Automatically injects polyfills to ensure compatibility with modern websites. ✨<br>
+  Automatically injects polyfills to ensure compatibility with modern websites. <br>
 
 - **Advanced Request Monitoring**  
-  Intercept and monitor HTTP/HTTPS requests directly from the application. 📡  
+  Intercept and monitor HTTP/HTTPS requests directly from the application.   
 
 - **Popup Handling**  
-  Seamlessly manage popups and new window requests. 🔗  
+  Seamlessly manage popups and new window requests.   
 
 - **Standalone Executable**  
-  Convenient `.exe` version for quick setup and deployment. 🖥️  
+  Convenient `.exe` version for quick setup and deployment.   
 
 ⚠️ Most Web Admin Panels don't allow to connect because of the old javasript versions of Chromium.⚠️
 
